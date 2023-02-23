@@ -6,8 +6,6 @@ Frontend: HTML, CSS, JavaScript
 
 Payment gateway: Pay U
 
-Link to site: kunalswainpaymentgateway.netlify.app
-
 It is a payment gateway which have following features
 
 Home Page - Donate page - Payment page - About us- Contact us
